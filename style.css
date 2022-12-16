@@ -1,0 +1,51 @@
+body {
+  background-color: lightseagreen;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title, #dirc {
+  text-align: center;
+}
+
+#dirc {
+  text-decoration: underline;
+}
+
+#sjbody {
+  background-color: lightcoral;
+}
+
+#esbody {
+  background-color: goldenrod;
+}
+
+#psbody {
+  background-color: lightgreen;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 30%;
+}
+
+.daddylist {
+  text-align: center;
+}
+
+button {
+  color: white;
+  background-color: rgb(133, 127, 223);
+  font-size: 30px;
+}
+
+.slopj.rtn,
+.eggsan.rtn,
+.pstsal.rtn {
+  background-color: black;
+}
+
+
+
